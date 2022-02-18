@@ -64,8 +64,8 @@ print(value)
 ```
 
 ## Output:
-![githublogo](ins1.png)
-![githublogo](ins2.png)
+![githublogo](ins.1.png)
+![githublogo](ins.2.png)
 
 
 ## Result:
